@@ -1,2 +1,22 @@
-# Supermarket-Java-System
-The Supermarket Management System is a desktop-based application developed using Java Swing to simulate a real-time supermarket billing environment. The system is designed to manage product selection, billing operations, and customer transactions efficiently.
+# 🛒 Supermarket Management System (Java Swing)
+
+## 📌 Description
+The Supermarket Management System is a desktop-based application developed using Java Swing. It simulates a real-time supermarket billing system where users can search products, add items to a cart, calculate totals, and generate bills efficiently.
+
+## 🚀 Features
+- 🔍 Product Search
+- 🛒 Add to Cart
+- 🔢 Quantity & Subtotal
+- 💰 Total Calculation
+- 🧾 Invoice Generation
+- ❌ Remove Items
+- ⌨️ Shortcut Key (F2 Checkout)
+
+## 🧑‍💻 Technologies Used
+- Java
+- Swing (GUI)
+- AWT
+
+## ▶️ How to Run
+javac *.java  
+java Main
